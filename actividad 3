@@ -2,10 +2,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Actividad 3</title>
+    <title>Mi sitio web</title>
 </head>
 <body>
-    <h1>Actividad 3</h1>
+    <h1>Bienvenido a mi sitio web</h1>
     <a href="pagina2.html">Ir a la página 2</a>
 </body>
 </html>
+
+<!-- pagina2.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página 2</title>
+</head>
+<body>
+    <h1>Esto es la página 2</h1>
+    <a href="index.html">Volver a la página principal</a>
+</body>
+</html>
+
